@@ -2,7 +2,7 @@
 - 👀 I’m Expert in Web Development
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m currently doing Web dev on Upwork and Fiverr
-- 📫 You can reach my by abidtech.com
+- 📫 You can reach my by https://abidali.us
 
 <!---
 abidmmp/abidmmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
